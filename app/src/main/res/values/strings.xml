@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Find My Dog\'s Age</string>
+    <string name="dog_image">A dog image</string>
+    <string name="dogs_age">Digite a idade do seu cachorro, para descobrir a idade dele em anos humanos</string>
+    <string name="dogs_age_text">Idade do seu cachorro</string>
+    <string name="check_age_button">Verificar</string>
+</resources>
